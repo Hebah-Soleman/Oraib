@@ -43,6 +43,8 @@ from oraib import generate_caption
 caption = generate_caption("image_path_here")
 print(caption)
 ```
+![Image Captioning Example](https://drive.google.com/uc?export=view&id=1hUwu4MLlCOs1L8GsVYbUvJxHgLQdRJaX)
+
 Contributing
 
 Feel free to fork this repository and submit pull requests for bug fixes and enhancements.
