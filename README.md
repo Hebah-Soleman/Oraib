@@ -29,7 +29,7 @@ from oraib import correct_text
 result = correct_text("النص العربي هنا")
 print(result)
 ```
-![Text Correct Example](https://drive.google.com/file/d/1j2SQE6lc7kJe-B5H2upJuyCtUBWJZlcK/view?usp=sharing)
+![Text Correct Example](https://drive.google.com/uc?export=view&id=1j2SQE6lc7kJe-B5H2upJuyCtUBWJZlcK)
 
 2. Running the diacritization tool:
 ```
@@ -37,7 +37,7 @@ from oraib import diacritize_text
 result = diacritize_text("النص بدون تشكيل")
 print(result)
 ```
-![Diacritization Example](https://drive.google.com/file/d/17dFIZZppj009iuLI7TQYQb-lZm5Gvk4I/view?usp=sharing)
+![Diacritization Example](https://drive.google.com/uc?export=view&id=17dFIZZppj009iuLI7TQYQb-lZm5Gvk4I)
 
 3. Using image captioning:
 ```
