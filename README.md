@@ -51,6 +51,6 @@ Contributing
 
 Feel free to fork this repository and submit pull requests for bug fixes and enhancements.
 
-License
+[License](path/to/LICENSE)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
