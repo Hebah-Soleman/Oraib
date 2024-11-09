@@ -12,6 +12,9 @@ Arabic Diacritization: Automatically adds diacritics to text.
 Image Captioning: Generates captions for Arabic images.
 Installation
 
+![Colab Logo](https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Colab_logo_2021.svg)
+To test Oraib's Features, follow the following instructions:
+
 1. Clone the repository:
 git clone https://github.com/Hebah-Soleman/Oraib.git
 cd Oraib
