@@ -23,17 +23,23 @@ Make sure you have the necessary environment variables configured for API access
 Usage
 
 1. Running the text correction tool:
+```
 from oraib import correct_text
 result = correct_text("النص العربي هنا")
 print(result)
+```
 2. Running the diacritization tool:
+```
 from oraib import diacritize_text
 result = diacritize_text("النص بدون تشكيل")
 print(result)
+```
 3. Using image captioning:
+```
 from oraib import generate_caption
 caption = generate_caption("image_path_here")
 print(caption)
+```
 Contributing
 
 Feel free to fork this repository and submit pull requests for bug fixes and enhancements.
